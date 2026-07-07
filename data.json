@@ -29,8 +29,8 @@
     "githubRepo": "systeam-admin-ctrl/-Najik",
     "githubFilePath": "data.json",
     "autoSync": false,
-    "lastSync": "٧‏/٧‏/٢٠٢٦، ٥:١٧:٤٦ ص",
-    "lastSyncCommit": "7bd1c9d061d4fc573c6df827ed0f31d45ee0e4fe"
+    "lastSync": "٧‏/٧‏/٢٠٢٦، ٥:١٧:٤٨ ص",
+    "lastSyncCommit": "19a4aa8946ac11c6d487f518b96c6ffcfd33646b"
   },
   "activityLog": [
     {
@@ -38,7 +38,13 @@
       "time": "٧‏/٧‏/٢٠٢٦، ٥:١٦:٣٥ ص"
     }
   ],
-  "importantLinks": [],
+  "importantLinks": [
+    {
+      "id": "_qh9qt4035mraoe4yz",
+      "title": "مصر الرقميه",
+      "url": "https://digital.gov.eg/"
+    }
+  ],
   "courts": [],
   "version": "2.0",
   "expenses": [],
