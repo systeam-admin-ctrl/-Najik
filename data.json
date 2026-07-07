@@ -1,0 +1,25 @@
+{
+  "cases": [],
+  "clients": [],
+  "staff": [],
+  "sessions": [],
+  "tasks": [],
+  "payments": [],
+  "documents": [],
+  "attendance": [],
+  "salaries": [],
+  "sessionLogs": [],
+  "clientGroups": [],
+  "settings": {
+    "storageMode": "github",
+    "githubRepo": "systeam-admin-ctrl/-Najik",
+    "githubFilePath": "data.json",
+    "autoSync": false
+  },
+  "activityLog": [],
+  "importantLinks": [],
+  "courts": [],
+  "version": "2.0",
+  "expenses": [],
+  "notifications": []
+}
