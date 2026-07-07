@@ -1,7 +1,21 @@
 {
   "cases": [],
   "clients": [],
-  "staff": [],
+  "staff": [
+    {
+      "id": "_jrxgv3difmraoahzz",
+      "name": "ناجي محمد عبدالله",
+      "role": "محامي",
+      "spec": "",
+      "license": "",
+      "phone": "+201097965486",
+      "email": "",
+      "salary": 0,
+      "joinDate": "",
+      "notes": "المدير العام .",
+      "photo": ""
+    }
+  ],
   "sessions": [],
   "tasks": [],
   "payments": [],
@@ -14,9 +28,16 @@
     "storageMode": "github",
     "githubRepo": "systeam-admin-ctrl/-Najik",
     "githubFilePath": "data.json",
-    "autoSync": false
+    "autoSync": false,
+    "lastSync": "٧‏/٧‏/٢٠٢٦، ٥:٠٩:٤٦ ص",
+    "lastSyncCommit": "defb8aba1260fe22b83aefb0fa86951b7cdea876"
   },
-  "activityLog": [],
+  "activityLog": [
+    {
+      "action": "إضافة موظف: ناجي محمد عبدالله",
+      "time": "٧‏/٧‏/٢٠٢٦، ٥:١٦:٣٥ ص"
+    }
+  ],
   "importantLinks": [],
   "courts": [],
   "version": "2.0",
